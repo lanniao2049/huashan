@@ -1,1 +1,12 @@
 this is test file.
+inset
+one
+two
+three
+four
+five
+six
+seven
+eight
+night
+ten
